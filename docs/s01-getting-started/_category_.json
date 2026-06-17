@@ -1,0 +1,8 @@
+{
+  "label": "시작하기",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "AI 코딩 도구 설치와 환경 세팅"
+  }
+}
